@@ -3,6 +3,11 @@
 **`Student`**
 
 I am a student currently studying Applied AI and Analytics
+
+I am interested in full-stack development and Artificical Intelligence
+
+
+
 ---
 ### Language and tools
 
